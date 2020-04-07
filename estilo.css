@@ -1,0 +1,68 @@
+#boxMae{
+    border-style: solid;
+    border-color: black;
+    padding-top: 30px;
+    padding-right: 35px;
+    padding-left: 35px;
+}
+font, #box{
+    margin-bottom: 20px;
+    font-size: x-large;
+    font-weight: bold;
+}
+font, #boxCinza{
+    background-color: gray;
+    width: 70%;
+    height: 30px;
+    
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    color: red;
+}
+#boxRosa{
+    background-color: hotpink;
+    border-style: dotted;
+    border-color: black;
+    outline-color: hotpink;
+    outline-style: solid;
+    outline-width: 5px;
+    width: 50%;
+    height: 30px;
+    margin-bottom: 20px;
+    margin-left:25%;
+    
+    
+}
+#boxVerde{
+    background-color: green;
+    border-style: dashed;
+    border-color: black;
+    outline-color: gray;
+    outline-style: solid;
+    outline-width: 10px;
+    width: 50%;
+    height: 30px;
+    margin-bottom: 20px;
+}
+#boxAzul{
+    background-color:blue;
+    outline-color: gray;
+    outline-style: solid;
+    outline-width: 10px;
+    width: 45%;
+    height: 40px;
+    margin-left:55%;
+}
+#boxImagem{
+    background-image: url(logo.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    height: 250px;
+}
+#boxImagemTopo{
+    background-image: url(logo.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+
+}
